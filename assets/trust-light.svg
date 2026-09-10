@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="360" viewBox="0 0 880 360" role="img" aria-label="How Xorviex is kept safe to give real access">
+<title>How Xorviex is kept safe to give real access</title>
+<defs>
+<clipPath id="cl0"><rect x="0" y="4" width="880" height="52" rx="12" ry="12"/></clipPath>
+<clipPath id="cl1"><rect x="0" y="66" width="880" height="68" rx="12" ry="12"/></clipPath>
+<clipPath id="cl2"><rect x="0" y="144" width="880" height="68" rx="12" ry="12"/></clipPath>
+<clipPath id="cl3"><rect x="0" y="222" width="880" height="52" rx="12" ry="12"/></clipPath>
+<clipPath id="cl4"><rect x="0" y="284" width="880" height="68" rx="12" ry="12"/></clipPath>
+</defs>
+<rect x="0" y="4" width="880" height="52" rx="12" ry="12" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+<g clip-path="url(#cl0)"><rect x="0" y="4" width="4.5" height="52" fill="#0969da"/></g>
+<text x="22" y="34.5" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#1f2328">Independent review</text>
+<text x="272" y="33.5" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">The agent that does the work is never the one that approves it.</text>
+<rect x="0" y="66" width="880" height="68" rx="12" ry="12" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+<g clip-path="url(#cl1)"><rect x="0" y="66" width="4.5" height="68" fill="#0969da"/></g>
+<text x="22" y="104.5" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#1f2328">Least access by default</text>
+<text x="272" y="94.0" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">An agent can only reach the integrations you connected, only in the workspace</text>
+<text x="272" y="113.0" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">it&#x27;s running in.</text>
+<rect x="0" y="144" width="880" height="68" rx="12" ry="12" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+<g clip-path="url(#cl2)"><rect x="0" y="144" width="4.5" height="68" fill="#0969da"/></g>
+<text x="22" y="182.5" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#1f2328">Your accounts stay yours</text>
+<text x="272" y="172.0" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">Every connected credential is encrypted. Code changes arrive as a pull request</text>
+<text x="272" y="191.0" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">to review — never a direct push.</text>
+<rect x="0" y="222" width="880" height="52" rx="12" ry="12" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+<g clip-path="url(#cl3)"><rect x="0" y="222" width="4.5" height="52" fill="#0969da"/></g>
+<text x="22" y="252.5" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#1f2328">Two-factor on by default</text>
+<text x="272" y="251.5" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">With recovery codes. Not an opt-in buried in a settings menu.</text>
+<rect x="0" y="284" width="880" height="68" rx="12" ry="12" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+<g clip-path="url(#cl4)"><rect x="0" y="284" width="4.5" height="68" fill="#0969da"/></g>
+<text x="22" y="322.5" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#1f2328">Honest numbers</text>
+<text x="272" y="312.0" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">A figure with nothing to compare against is reported as “not enough history”,</text>
+<text x="272" y="331.0" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#59636e">never rounded up into a story.</text>
+</svg>

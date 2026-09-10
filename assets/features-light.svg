@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="462" viewBox="0 0 880 462" role="img" aria-label="What Xorviex does for you">
+<title>What Xorviex does for you</title>
+<rect x="0" y="4" width="281" height="216" rx="12" ry="12" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+<rect x="18" y="22" width="26" height="20" rx="6" ry="6" fill="#ddf4ff" stroke="#0969da" stroke-width="1"/>
+<text x="31" y="36" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#0969da" letter-spacing="0.5">01</text>
+<text x="18" y="64" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#1f2328">It builds the team, you</text>
+<text x="18" y="83" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#1f2328">don&#x27;t</text>
+<text x="18" y="114" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">No role picker, no agent-count</text>
+<text x="18" y="132" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">slider, no workflow to wire up. You</text>
+<text x="18" y="150" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">write the goal in one sentence —</text>
+<text x="18" y="168" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">the org chart comes back designed</text>
+<text x="18" y="186" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">for it.</text>
+<rect x="299" y="4" width="281" height="216" rx="12" ry="12" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+<rect x="317" y="22" width="26" height="20" rx="6" ry="6" fill="#ddf4ff" stroke="#0969da" stroke-width="1"/>
+<text x="330" y="36" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#0969da" letter-spacing="0.5">02</text>
+<text x="317" y="64" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#1f2328">It acts, not just advises</text>
+<text x="317" y="114" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">Agents research on the live web,</text>
+<text x="317" y="132" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">then do the thing: send the Slack</text>
+<text x="317" y="150" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">message, open the pull request,</text>
+<text x="317" y="168" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">update the Notion page, publish the</text>
+<text x="317" y="186" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">post.</text>
+<rect x="598" y="4" width="281" height="216" rx="12" ry="12" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+<rect x="616" y="22" width="26" height="20" rx="6" ry="6" fill="#ddf4ff" stroke="#0969da" stroke-width="1"/>
+<text x="629" y="36" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#0969da" letter-spacing="0.5">03</text>
+<text x="616" y="64" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#1f2328">Nothing ships unreviewed</text>
+<text x="616" y="114" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">Every output is graded by a</text>
+<text x="616" y="132" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">separate AI against what that agent</text>
+<text x="616" y="150" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">was actually asked to do.</text>
+<text x="616" y="168" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">Persistent failure comes to you —</text>
+<text x="616" y="186" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">it never quietly ships.</text>
+<rect x="0" y="238" width="281" height="216" rx="12" ry="12" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+<rect x="18" y="256" width="26" height="20" rx="6" ry="6" fill="#ddf4ff" stroke="#0969da" stroke-width="1"/>
+<text x="31" y="270" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#0969da" letter-spacing="0.5">04</text>
+<text x="18" y="298" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#1f2328">It remembers what it</text>
+<text x="18" y="317" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#1f2328">measured</text>
+<text x="18" y="348" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">“Is this going up or down?” stays</text>
+<text x="18" y="366" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">answerable months later. And when</text>
+<text x="18" y="384" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">there isn&#x27;t enough history to</text>
+<text x="18" y="402" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">answer, it says so — never an</text>
+<text x="18" y="420" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">invented percentage.</text>
+<rect x="299" y="238" width="281" height="216" rx="12" ry="12" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+<rect x="317" y="256" width="26" height="20" rx="6" ry="6" fill="#ddf4ff" stroke="#0969da" stroke-width="1"/>
+<text x="330" y="270" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#0969da" letter-spacing="0.5">05</text>
+<text x="317" y="298" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#1f2328">It can run on a schedule</text>
+<text x="317" y="348" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">A weekly competitor sweep, a daily</text>
+<text x="317" y="366" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">inbox triage, a monthly report —</text>
+<text x="317" y="384" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">any mission becomes recurring,</text>
+<text x="317" y="402" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">spawning a fresh run on its own.</text>
+<rect x="598" y="238" width="281" height="216" rx="12" ry="12" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+<rect x="616" y="256" width="26" height="20" rx="6" ry="6" fill="#ddf4ff" stroke="#0969da" stroke-width="1"/>
+<text x="629" y="270" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#0969da" letter-spacing="0.5">06</text>
+<text x="616" y="298" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#1f2328">You run it by talking to</text>
+<text x="616" y="317" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#1f2328">it</text>
+<text x="616" y="348" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">Start missions, rewrite a brief</text>
+<text x="616" y="366" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">mid-flight, update what the team</text>
+<text x="616" y="384" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">knows about your company. If your</text>
+<text x="616" y="402" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">request is ambiguous, it asks</text>
+<text x="616" y="420" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#59636e">instead of guessing.</text>
+</svg>

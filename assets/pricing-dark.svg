@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="220" viewBox="0 0 880 220" role="img" aria-label="Xorviex pricing tiers">
+<title>Xorviex pricing tiers</title>
+<rect x="0" y="4" width="281" height="208" rx="12" ry="12" fill="#151b23" stroke="#3d444d" stroke-width="1.5"/>
+<text x="140.5" y="38" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#7d8590" letter-spacing="1.4">STARTER</text>
+<text x="140.5" y="88" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="36" font-weight="700" fill="#e6edf3" letter-spacing="-0.5">15M</text>
+<text x="140.5" y="108" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="400" fill="#9198a1">OUs / month</text>
+<path d="M28 128 L253 128" stroke="#3d444d" stroke-width="1"/>
+<text x="28" y="152" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#9198a1">Concurrent missions</text>
+<text x="253" y="152" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#e6edf3">5</text>
+<text x="28" y="178" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#9198a1">Model quality</text>
+<text x="253" y="178" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#e6edf3">Standard</text>
+<rect x="299" y="4" width="281" height="208" rx="12" ry="12" fill="#121d2f" stroke="#4493f8" stroke-width="2"/>
+<text x="439.5" y="38" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#4493f8" letter-spacing="1.4">SCALE</text>
+<text x="439.5" y="88" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="36" font-weight="700" fill="#e6edf3" letter-spacing="-0.5">100M</text>
+<text x="439.5" y="108" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="400" fill="#9198a1">OUs / month</text>
+<path d="M327 128 L552 128" stroke="#3d444d" stroke-width="1"/>
+<text x="327" y="152" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#9198a1">Concurrent missions</text>
+<text x="552" y="152" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#e6edf3">25</text>
+<text x="327" y="178" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#9198a1">Model quality</text>
+<text x="552" y="178" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#e6edf3">+ Frontier</text>
+<rect x="598" y="4" width="281" height="208" rx="12" ry="12" fill="#151b23" stroke="#3d444d" stroke-width="1.5"/>
+<text x="738.5" y="38" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#7d8590" letter-spacing="1.4">ENTERPRISE</text>
+<text x="738.5" y="88" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="36" font-weight="700" fill="#e6edf3" letter-spacing="-0.5">Custom</text>
+<text x="738.5" y="108" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="400" fill="#9198a1">OUs / month</text>
+<path d="M626 128 L851 128" stroke="#3d444d" stroke-width="1"/>
+<text x="626" y="152" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#9198a1">Concurrent missions</text>
+<text x="851" y="152" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#e6edf3">Unlimited</text>
+<text x="626" y="178" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="400" fill="#9198a1">Model quality</text>
+<text x="851" y="178" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#e6edf3">Custom</text>
+</svg>
