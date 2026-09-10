@@ -11,11 +11,7 @@ it designs and spawns the sub-agents that mission actually needs, lets each one
 research and *act* through real tools, and routes every output through
 independent Supervisor AIs before anything touches the real world.
 
-<a href="https://xorviex.ai"><img src="https://img.shields.io/badge/XORVIEX.AI-000000?style=flat" alt="Website" height="32" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/company/xorviex/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="32" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/xorviex"><img src="https://img.shields.io/badge/@XORVIEX-000000?style=flat&logo=x&logoColor=white" alt="X" height="32" /></a>
+<img src="https://img.shields.io/badge/%20%20-ffffff?style=for-the-badge" height="46" alt="" /><a href="https://xorviex.ai"><img src="https://img.shields.io/badge/XORVIEX.AI-ffffff?style=for-the-badge" alt="Website" height="46" /></a><img src="https://img.shields.io/badge/%20%20-ffffff?style=for-the-badge" height="46" alt="" /><a href="https://www.linkedin.com/company/xorviex/"><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" height="46" /></a><img src="https://img.shields.io/badge/%20%20-ffffff?style=for-the-badge" height="46" alt="" /><a href="https://x.com/xorviex"><img src="https://img.shields.io/badge/%40XORVIEX-ffffff?style=for-the-badge&logo=x&logoColor=000000" alt="X" height="46" /></a><img src="https://img.shields.io/badge/%20%20-ffffff?style=for-the-badge" height="46" alt="" />
 
 </div>
 
