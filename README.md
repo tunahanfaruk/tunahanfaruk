@@ -24,13 +24,13 @@ independent Supervisor AIs before anything touches the real world.
 Most "AI agent" products hand you a fixed org chart: a researcher, a writer, a
 reviewer, forever. Xorviex doesn't. You describe an outcome — *"find every
 distributor in the DACH region selling a competing product and tell me how our
-pricing compares"* — and Claude **plans the team**: how many agents, what each
-one's job is, what tools each one gets. There is no hardcoded role list and no
-fixed agent count. The org chart is generated per mission.
+pricing compares"* — and the planner **designs the team**: how many agents,
+what each one's job is, what tools each one gets. There is no hardcoded role
+list and no fixed agent count. The org chart is generated per mission.
 
 Then each agent goes to work. Not by writing code that gets executed — by
-running a **real Anthropic tool-use loop** inside a trusted worker: Claude picks
-a tool, the worker calls it, the genuine result comes back, Claude picks the
+running a **real tool-use loop** inside a trusted worker: the model picks a
+tool, the worker calls it, the genuine result comes back, the model picks the
 next move. Nothing is `exec()`'d anywhere in the agent path.
 
 ---
@@ -42,8 +42,8 @@ next move. Nothing is `exec()`'d anywhere in the agent path.
             │
             ▼
    ┌────────────────────┐
-   │  Mission Planner   │  Claude designs the team: N agents,
-   │     (Claude)       │  free-form roles, per-agent directives
+   │  Mission Planner   │  the model designs the team: N agents,
+   │        (LLM)       │  free-form roles, per-agent directives
    └─────────┬──────────┘
              │  spawn
    ┌─────────┴───────────────────────────────────┐
@@ -78,7 +78,7 @@ next move. Nothing is `exec()`'d anywhere in the agent path.
 ### 🧠 The AI decides — the code is only the sensor
 The core principle: strategy lives in the model, not in a hand-written
 if/else tree. Xorviex's Python doesn't decide *what* to do about a competitor's
-price drop; it decides how to *measure* it accurately and hand Claude a true
+price drop; it decides how to *measure* it accurately and hand the model a true
 reading. Security boundaries are the deliberate exception — those stay
 hand-written and reviewed.
 
@@ -113,7 +113,7 @@ last fire, not the current tick, so a late sweep never skips or double-fires.
 
 ### 💬 Command Chat
 A conversational control surface over the whole workspace — create missions,
-revise agent directives mid-flight, edit workspace memory, all through a Claude
+revise agent directives mid-flight, edit workspace memory, all through a
 tool-use loop that can ask *you* a clarifying question when the target is
 ambiguous.
 
@@ -125,7 +125,7 @@ Two independent services:
 
 | | Stack |
 |---|---|
-| **Backend** | FastAPI · async SQLAlchemy · PostgreSQL · Redis · taskiq · Anthropic SDK · Docker |
+| **Backend** | FastAPI · async SQLAlchemy · PostgreSQL · Redis · taskiq · LLM provider SDK · Docker |
 | **Frontend** | Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS v4 · Cloudflare Workers / OpenNext |
 
 ### Isolation tiers
@@ -136,9 +136,10 @@ Untrusted work never runs at the same trust level as the platform:
   SSRF egress guard, for any URL an agent discovers mid-run.
 - **Dev sandbox** — its own image, its own Docker network, its own
   docker-socket-proxy and **no `EXEC` capability**; backs the `code_fixer`
-  pipeline (clone a real repo → run its real tests → ask Claude for a patch →
-  open a PR, never a direct push to `main`) and the paired `builder`/`tester`
-  agents that ship a product increment and verify it concurrently.
+  pipeline (clone a real repo → run its real tests → ask the model for a
+  patch → open a PR, never a direct push to `main`) and the paired
+  `builder`/`tester` agents that ship a product increment and verify it
+  concurrently.
 - **Everything else** — the ordinary tool-use loop, which needs no execution
   sandbox because it executes nothing: it can only pick from a fixed catalogue.
 
@@ -164,12 +165,12 @@ codebase says so at the call site.
 ## Integrations
 
 Slack · GitHub · Notion · Google Workspace (Gmail/Calendar/Drive/Docs/Sheets) ·
-Discord · Asana · Salesforce · Ayrshare · Apify · Anthropic (BYOK)
+Discord · Asana · Salesforce · Ayrshare · Apify · LLM provider (BYOK)
 
 Each one is OAuth or API-key based, encrypted at rest, and only ever exposed to
-agents in workspaces that explicitly connected it. Bring-your-own Anthropic
-keys act as an **overflow** key — they take over only once your own quota is
-exhausted, and that work is billed by Anthropic to you.
+agents in workspaces that explicitly connected it. Bring-your-own model keys
+act as an **overflow** key — they take over only once your own quota is
+exhausted, and that work is billed by that provider directly to you.
 
 ---
 
@@ -184,7 +185,7 @@ one.
 |---|---|---|---|
 | OUs / month | 15M | 100M | Custom |
 | Concurrent missions | 5 | 25 | Unlimited |
-| Model tiers | Low + Mid | + High (Opus) | Custom routing |
+| Model tiers | Low + Mid | + High (frontier) | Custom routing |
 
 Measured on this platform, a real mission — one goal, four to six agents, live
 research plus supervision on every output — runs about **1.3M OUs end to end**.
