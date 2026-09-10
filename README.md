@@ -11,9 +11,11 @@ it designs and spawns the sub-agents that mission actually needs, lets each one
 research and *act* through real tools, and routes every output through
 independent Supervisor AIs before anything touches the real world.
 
-[![Website](https://img.shields.io/badge/xorviex.ai-000?style=for-the-badge)](https://xorviex.ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/xorviex/)
-[![X](https://img.shields.io/badge/@xorviex-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xorviex)
+<a href="https://xorviex.ai"><img src="https://img.shields.io/badge/XORVIEX.AI-000000?style=flat" alt="Website" height="32" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/company/xorviex/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="32" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/xorviex"><img src="https://img.shields.io/badge/@XORVIEX-000000?style=flat&logo=x&logoColor=white" alt="X" height="32" /></a>
 
 </div>
 
