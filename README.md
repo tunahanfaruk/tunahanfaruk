@@ -1,1 +1,1 @@
-founder of xorviex
+founder of xorviex.ai
